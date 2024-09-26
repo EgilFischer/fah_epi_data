@@ -1,0 +1,1062 @@
+AnimalID	Pariteit	PunctPosNeg	PunctCt	SwabPosNeg	SwabCtIS1111	MelkPosNeg	MelkCt	MelkELISAPosNeg	MelkELISATiter	BloedELISAPosNeg	FarmID	Sequence	Vaccinated	Species
+A001	>=1	neg		NA		neg		pos	383	NA	A	1	No	Goats
+A002	>=1	neg		NA		neg		pos	44	NA	A	2	No	Goats
+A003	>=1	neg		NA		neg		pos	120	NA	A	3	No	Goats
+A004	>=1	neg		NA		pos	23.8	pos	321	NA	A	4	No	Goats
+A005	>=1	neg		NA		neg		neg	8	NA	A	5	No	Goats
+A006	>=1	neg		NA		neg		pos	114	NA	A	6	No	Goats
+A007	>=1	neg		NA		neg		pos	45	NA	A	7	No	Goats
+A008	>=1	neg		NA		neg		pos	37	NA	A	8	No	Goats
+A009	>=1	pos		NA		neg		pos	62	NA	A	9	No	Goats
+A010	>=1	neg		NA		neg		neg	2	NA	A	10	No	Goats
+A011	>=1	neg		NA		neg		pos	114	NA	A	11	No	Goats
+A012	>=1	neg		NA		neg		neg	6	NA	A	12	No	Goats
+A013	>=1	neg		NA		neg		pos	45	NA	A	13	No	Goats
+A014	>=1	neg		NA		neg		pos	54	NA	A	14	No	Goats
+A015	>=1	neg		NA		neg		neg	27	NA	A	15	No	Goats
+A016	>=1	neg		NA		neg		pos	278	NA	A	16	No	Goats
+A017	>=1	neg		NA		neg		pos	99	NA	A	17	No	Goats
+A018	>=1	neg		NA		neg		neg	-6	NA	A	18	No	Goats
+A019	>=1	neg		NA		neg		pos	100	NA	A	19	No	Goats
+A020	>=1	neg		NA		pos	30.3	pos	225	NA	A	20	No	Goats
+A021	>=1	neg		NA		neg		pos	243	NA	A	21	No	Goats
+A022	>=1	NA		NA		pos	32.9	pos	129	NA	A	22	No	Goats
+A023	>=1	neg		NA		pos	27.1	pos	181	NA	A	23	No	Goats
+A024	>=1	NA		NA		neg		neg	-2	NA	A	24	No	Goats
+A025	>=1	NA		NA		neg		pos	77	NA	A	25	No	Goats
+A026	>=1	neg		NA		neg		pos	40	NA	A	26	No	Goats
+A027	>=1	neg		NA		neg		pos	240	NA	A	27	No	Goats
+A028	>=1	NA		NA		neg		neg	29	NA	A	28	No	Goats
+A029	>=1	neg		NA		neg		pos	45	NA	A	29	No	Goats
+A030	>=1	NA		NA		neg		pos	137	NA	A	30	No	Goats
+A031	>=1	neg		NA		NA		neg	-8	NA	A	31	No	Goats
+A032	>=1	NA		NA		neg		neg	18	NA	A	32	No	Goats
+A033	>=1	neg		NA		neg		neg	6	NA	A	33	No	Goats
+A034	>=1	neg		NA		neg		neg	5	NA	A	34	No	Goats
+A035	>=1	neg		NA		neg		pos	35	NA	A	35	No	Goats
+A036	>=1	pos		NA		neg		pos	298	NA	A	36	No	Goats
+A037	>=1	neg		NA		NA		pos	207	NA	A	37	No	Goats
+A038	>=1	neg		NA		neg		pos	252	NA	A	38	No	Goats
+A039	>=1	NA		NA		neg		pos	84	NA	A	39	No	Goats
+A040	>=1	neg		NA		pos	24.7	pos	250	NA	A	40	No	Goats
+A041	>=1	neg		NA		neg		pos	330	NA	A	41	No	Goats
+A042	>=1	neg		NA		neg		neg	19	NA	A	42	No	Goats
+A043	>=1	neg		NA		pos	31.5	pos	338	NA	A	43	No	Goats
+A044	>=1	neg		NA		neg		neg	2	NA	A	44	No	Goats
+A045	>=1	neg		NA		neg		pos	43	NA	A	45	No	Goats
+A046	>=1	neg		NA		neg		pos	118	NA	A	46	No	Goats
+A047	>=1	neg		NA		neg		neg	-3	NA	A	47	No	Goats
+A048	>=1	neg		NA		neg		neg	-2	NA	A	48	No	Goats
+A049	>=1	neg		NA		pos	33.7	pos	185	NA	A	49	No	Goats
+A050	>=1	neg		NA		neg		pos	76	NA	A	50	No	Goats
+A051	0	neg		NA		NA		NA		NA	A	51	No	Goats
+A052	0	neg		NA		NA		NA		NA	A	52	No	Goats
+A053	0	neg		NA		NA		NA		NA	A	53	No	Goats
+A054	0	neg		NA		NA		NA		NA	A	54	No	Goats
+A055	0	neg		NA		NA		NA		NA	A	55	No	Goats
+A056	0	neg		NA		NA		NA		NA	A	56	No	Goats
+A057	0	neg		NA		NA		NA		NA	A	57	No	Goats
+A058	0	neg		NA		NA		NA		NA	A	58	No	Goats
+A059	0	neg		NA		NA		NA		NA	A	59	No	Goats
+A060	0	neg		NA		NA		NA		NA	A	60	No	Goats
+A061	0	neg		NA		NA		NA		NA	A	61	No	Goats
+A062	0	neg		NA		NA		NA		NA	A	62	No	Goats
+A063	0	neg		NA		NA		NA		NA	A	63	No	Goats
+A064	0	neg		NA		NA		NA		NA	A	64	No	Goats
+A065	0	neg		NA		NA		NA		NA	A	65	No	Goats
+A066	0	neg		NA		NA		NA		NA	A	66	No	Goats
+A067	0	neg		NA		NA		NA		NA	A	67	No	Goats
+A068	0	neg		NA		NA		NA		NA	A	68	No	Goats
+A069	0	neg		NA		NA		NA		NA	A	69	No	Goats
+A070	0	neg		NA		NA		NA		NA	A	70	No	Goats
+A071	0	neg		NA		NA		NA		NA	A	71	No	Goats
+A072	0	neg		NA		NA		NA		NA	A	72	No	Goats
+A073	0	neg		NA		NA		NA		NA	A	73	No	Goats
+A076	0	neg		NA		NA		NA		NA	A	74	No	Goats
+A077	0	neg		NA		NA		NA		NA	A	75	No	Goats
+A078	0	neg		NA		NA		NA		NA	A	76	No	Goats
+A079	0	neg		NA		NA		NA		NA	A	77	No	Goats
+A080	0	neg		NA		NA		NA		NA	A	78	No	Goats
+A081	0	neg		NA		NA		NA		NA	A	79	No	Goats
+A082	0	neg		NA		NA		NA		NA	A	80	No	Goats
+A083	0	neg		NA		NA		NA		NA	A	81	No	Goats
+A084	0	neg		NA		NA		NA		NA	A	82	No	Goats
+A085	0	neg		NA		NA		NA		NA	A	83	No	Goats
+A086	0	neg		NA		NA		NA		NA	A	84	No	Goats
+A087	0	neg		NA		NA		NA		NA	A	85	No	Goats
+A088	0	neg		NA		NA		NA		NA	A	86	No	Goats
+A089	0	neg		NA		NA		NA		NA	A	87	No	Goats
+A090	0	neg		NA		NA		NA		NA	A	88	No	Goats
+A091	0	neg		NA		NA		NA		NA	A	89	No	Goats
+A092	0	neg		NA		NA		NA		NA	A	90	No	Goats
+A093	0	neg		NA		NA		NA		NA	A	91	No	Goats
+A094	0	neg		NA		NA		NA		NA	A	92	No	Goats
+A095	0	neg		NA		NA		NA		NA	A	93	No	Goats
+A096	0	neg		NA		NA		NA		NA	A	94	No	Goats
+A097	0	neg		NA		NA		NA		NA	A	95	No	Goats
+A098	0	neg		NA		NA		NA		NA	A	96	No	Goats
+A101	>=1	neg		NA		neg		neg             	24	NA	A	97	No	Goats
+A102	>=1	neg		NA		pos	35.7	pos            	275	NA	A	98	No	Goats
+A103	>=1	neg		NA		pos	32	pos           	142	NA	A	99	No	Goats
+A104	>=1	neg		NA		pos	39.9	pos            	126	NA	A	100	No	Goats
+B001	>=1	pos	29.86	pos	30.18	pos	35.1	pos	33	NA	B	101	No	Goats
+B002	>=1	neg		pos	27.1	pos	32.2	pos	71	NA	B	102	No	Goats
+B003	>=1	neg		pos	30.8	pos	34.1	neg	-1	NA	B	103	No	Goats
+B004	>=1	pos	25.76	pos	28.4	pos	33.9	neg	6	NA	B	104	No	Goats
+B005	>=1	neg		pos	30.14	pos	34.9	neg	-2	NA	B	105	No	Goats
+B006	>=1	pos	23.11	pos	26.04	pos	31.5	pos	66	NA	B	106	No	Goats
+B007	>=1	pos	35.62	pos	29.04	pos	37.4	neg	6	NA	B	107	No	Goats
+B008	>=1	neg		pos	26.29	pos	36.5	neg	0	NA	B	108	No	Goats
+B009	>=1	neg		pos	3.03	pos	30.4	neg	-5	NA	B	109	No	Goats
+B010	>=1	pos	19.52	pos	28.04	pos	37.2	neg	-6	NA	B	110	No	Goats
+B011	>=1	neg		pos	29.47	pos	39.9	neg	-4	NA	B	111	No	Goats
+B012	>=1	neg		pos		pos	37.2	NA		NA	B	112	No	Goats
+B013	>=1	neg		pos	31.18	pos	33.8	neg	-5	NA	B	113	No	Goats
+B014	>=1	neg		pos	1.5	pos	32.6	pos	42	NA	B	114	No	Goats
+B015	>=1	neg		pos	28.81	pos	31.7	neg	13	NA	B	115	No	Goats
+B016	>=1	pos	31.1	pos	27.81	pos	29.1	neg	0	NA	B	116	No	Goats
+B017	>=1	pos	37.91	pos	28.69	pos	29	neg	4	NA	B	117	No	Goats
+B018	>=1	pos	34.16	pos	28.89	pos	39.3	neg	3	NA	B	118	No	Goats
+B019	>=1	neg		pos	33.65	pos	33.4	neg	10	NA	B	119	No	Goats
+B020	>=1	pos	34.78	pos	29.4	pos	36.6	neg	-4	NA	B	120	No	Goats
+B021	>=1	pos	27.67	pos	35.17	pos	28.9	neg	1	NA	B	121	No	Goats
+B022	>=1	neg		pos	1.5	neg		neg	-3	NA	B	122	No	Goats
+B023	>=1	pos	36.4	pos	29.99	pos	34.7	neg	4	NA	B	123	No	Goats
+B024	>=1	neg		pos	27.3	pos	34	NA		NA	B	124	No	Goats
+B025	>=1	neg		pos	29.44	pos	36.2	neg	27	NA	B	125	No	Goats
+B026	>=1	pos	30.43	pos	30.35	pos	29.8	neg	-6	NA	B	126	No	Goats
+B051	0	pos	31.39	pos	29.14	NA		NA		NA	B	127	No	Goats
+B052	0	pos	18.25	pos	1.5	NA		NA		NA	B	128	No	Goats
+B053	0	pos	24.16	pos	24.3	NA		NA		NA	B	129	No	Goats
+B054	0	neg		pos	24.48	NA		NA		NA	B	130	No	Goats
+B055	0	pos	34.74	pos	26.54	NA		NA		NA	B	131	No	Goats
+B056	0	pos	29.71	pos	24.73	NA		NA		NA	B	132	No	Goats
+B057	0	pos	34.76	pos	26.61	NA		NA		NA	B	133	No	Goats
+B058	0	pos	3.82	pos	26.25	NA		NA		NA	B	134	No	Goats
+B059	0	NA		pos	25.24	NA		NA		NA	B	135	No	Goats
+B060	0	neg		pos	26.25	NA		NA		NA	B	136	No	Goats
+B061	0	pos	32.7	pos	28.69	NA		NA		NA	B	137	No	Goats
+B062	0	neg		pos	28.9	NA		NA		NA	B	138	No	Goats
+B063	0	pos	36.16	pos	24.14	NA		NA		NA	B	139	No	Goats
+B064	0	NA		pos	24.05	NA		NA		NA	B	140	No	Goats
+B065	0	neg		pos	27.56	NA		NA		NA	B	141	No	Goats
+B066	0	pos	35.31	pos	31.05	NA		NA		NA	B	142	No	Goats
+B067	0	pos	38.75	pos	25.04	NA		NA		NA	B	143	No	Goats
+B068	0	neg		pos	1.5	NA		NA		NA	B	144	No	Goats
+B069	0	pos	36	pos	26.05	NA		NA		NA	B	145	No	Goats
+B070	0	neg		pos	29.01	NA		NA		NA	B	146	No	Goats
+B071	0	pos	32.27	pos	24.24	NA		NA		NA	B	147	No	Goats
+B072	0	pos	31.07	pos	28.03	NA		NA		NA	B	148	No	Goats
+B073	0	pos	34.58	pos	28.01	NA		NA		NA	B	149	No	Goats
+B074	0	pos	31.58	pos	25.12	NA		NA		NA	B	150	No	Goats
+B075	0	pos	34.14	pos	28.14	NA		NA		NA	B	151	No	Goats
+B076	0	pos	32.2	pos	25.86	NA		NA		NA	B	152	No	Goats
+B077	0	pos	39.42	pos	24.74	NA		NA		NA	B	153	No	Goats
+B078	0	pos	31.84	pos	22.75	NA		NA		NA	B	154	No	Goats
+B079	0	pos	34.16	pos	23.32	NA		NA		NA	B	155	No	Goats
+B080	0	neg		pos	20.3	NA		NA		NA	B	156	No	Goats
+B081	0	pos	30.08	pos	23.92	NA		NA		NA	B	157	No	Goats
+B082	0	pos	34.22	pos	23.39	NA		NA		NA	B	158	No	Goats
+B083	0	neg		pos	22.61	NA		NA		NA	B	159	No	Goats
+B084	0	neg		pos	22.08	NA		NA		NA	B	160	No	Goats
+B085	0	pos	34.92	pos	24.94	NA		NA		NA	B	161	No	Goats
+B086	0	neg		pos	26.32	NA		NA		NA	B	162	No	Goats
+B087	0	pos	36.51	pos	24.24	NA		NA		NA	B	163	No	Goats
+B088	0	pos	36.69	neg		NA		NA		NA	B	164	No	Goats
+B089	0	neg		pos	23.87	NA		NA		NA	B	165	No	Goats
+B090	0	pos	9.9	pos	25.15	NA		NA		NA	B	166	No	Goats
+B091	0	neg		pos	25.11	NA		NA		NA	B	167	No	Goats
+B092	0	pos	36.69	pos	25.7	NA		NA		NA	B	168	No	Goats
+B093	0	pos	36.07	pos	24.18	NA		NA		NA	B	169	No	Goats
+B094	0	pos	39.59	pos	24.83	NA		NA		NA	B	170	No	Goats
+B095	0	pos	33.75	pos	25.18	NA		NA		NA	B	171	No	Goats
+B096	0	neg		pos	27.16	NA		NA		NA	B	172	No	Goats
+B097	0	neg		pos	26.07	NA		NA		NA	B	173	No	Goats
+B098	0	pos	39.51	pos	27.08	NA		NA		NA	B	174	No	Goats
+B099	0	pos	8.99	pos	28.02	NA		NA		NA	B	175	No	Goats
+B100	0	neg		pos	24.38	NA		NA		NA	B	176	No	Goats
+B101	0	neg		pos	26.05	NA		NA		NA	B	177	No	Goats
+B102	0	neg		pos	31.27	NA		NA		NA	B	178	No	Goats
+B103	0	pos	37.65	pos	27.65	NA		NA		NA	B	179	No	Goats
+B104	0	pos	36.41	pos	24.26	NA		NA		NA	B	180	No	Goats
+B105	0	neg		pos	26.31	NA		NA		NA	B	181	No	Goats
+B106	0	pos	34.66	pos	26.1	NA		NA		NA	B	182	No	Goats
+B107	0	neg		pos	27.71	NA		NA		NA	B	183	No	Goats
+B108	0	pos	36	pos	27.3	NA		NA		NA	B	184	No	Goats
+B109	0	pos	36.5	pos	25.55	NA		NA		NA	B	185	No	Goats
+B110	0	pos	30.78	pos	27.07	NA		NA		NA	B	186	No	Goats
+B111	0	pos	4.63	pos	25.04	NA		NA		NA	B	187	No	Goats
+B112	0	pos	37.11	pos	25.21	NA		NA		NA	B	188	No	Goats
+B113	0	neg		pos	26.41	NA		NA		NA	B	189	No	Goats
+B114	0	pos	38.79	pos	26.67	NA		NA		NA	B	190	No	Goats
+B115	0	neg		pos	27.54	NA		NA		NA	B	191	No	Goats
+B116	0	pos	22.26	pos	24.4	NA		NA		NA	B	192	No	Goats
+B117	0	pos	38.35	pos	27.19	NA		NA		NA	B	193	No	Goats
+B118	0	pos	28.23	pos	29.12	NA		NA		NA	B	194	No	Goats
+B119	0	pos	24	pos	25.35	NA		NA		NA	B	195	No	Goats
+B120	0	pos	35.53	pos	26.84	NA		NA		NA	B	196	No	Goats
+B121	0	pos	34.53	pos	3.26	NA		NA		NA	B	197	No	Goats
+B122	0	neg		pos	25.17	NA		NA		NA	B	198	No	Goats
+B123	0	neg		pos	26.09	NA		NA		NA	B	199	No	Goats
+B124	0	pos	37.2	pos	27.78	NA		NA		NA	B	200	No	Goats
+B125	0	pos	18.63	pos	25	NA		NA		NA	B	201	No	Goats
+B126	0	pos	34.09	pos	24.85	NA		NA		NA	B	202	No	Goats
+F051	0	pos	14.48	pos	18.41	NA		NA		NA	F	203	No	Goats
+F052	0	pos	37.25	pos	22.17	NA		NA		NA	F	204	No	Goats
+F053	0	pos	23.36	pos	20.85	NA		NA		NA	F	205	No	Goats
+F054	0	pos	19.89	pos	21.53	NA		NA		NA	F	206	No	Goats
+F055	0	pos	37.34	pos	21.66	NA		NA		NA	F	207	No	Goats
+F056	0	pos	35.87	pos	22.03	NA		NA		NA	F	208	No	Goats
+F057	0	pos	35.47	pos	22.95	NA		NA		NA	F	209	No	Goats
+F058	0	pos	22.32	pos	23.63	NA		NA		NA	F	210	No	Goats
+F059	0	pos	16.99	pos	1.5	NA		NA		NA	F	211	No	Goats
+F060	0	pos	19.79	pos	22.07	NA		NA		NA	F	212	No	Goats
+F061	0	neg		pos	19.17	NA		NA		NA	F	213	No	Goats
+F062	0	neg		pos	21.76	NA		NA		NA	F	214	No	Goats
+F063	0	pos	19.15	pos	22.11	NA		NA		NA	F	215	No	Goats
+F064	0	pos	20.51	pos	17.98	NA		NA		NA	F	216	No	Goats
+F065	0	neg		pos	18.5	NA		NA		NA	F	217	No	Goats
+F066	0	pos	16.43	pos	22.22	NA		NA		NA	F	218	No	Goats
+F067	0	neg		pos	23.05	NA		NA		NA	F	219	No	Goats
+F068	0	pos	20.02	pos	22.69	NA		NA		NA	F	220	No	Goats
+F069	0	pos	24.01	pos	21.63	NA		NA		NA	F	221	No	Goats
+F070	0	pos	17.08	pos	21.88	NA		NA		NA	F	222	No	Goats
+F071	0	pos	13.51	pos	20.47	NA		NA		NA	F	223	No	Goats
+F072	0	pos	24.54	pos	20.46	NA		NA		NA	F	224	No	Goats
+F073	0	neg		neg		NA		NA		NA	F	225	No	Goats
+F074	0	pos	23.93	pos	24.4	NA		NA		NA	F	226	No	Goats
+F075	0	pos	16.32	pos	22.01	NA		NA		NA	F	227	No	Goats
+F076	0	pos	21.29	pos	22.13	NA		NA		NA	F	228	No	Goats
+F077	0	pos	38.79	pos	24.08	NA		NA		NA	F	229	No	Goats
+F078	0	NA		pos	24.96	NA		NA		NA	F	230	No	Goats
+F079	0	neg		pos	21.81	NA		NA		NA	F	231	No	Goats
+F080	0	pos	3.64	pos	20.1	NA		NA		NA	F	232	No	Goats
+F081	0	NA		pos	21.7	NA		NA		NA	F	233	No	Goats
+F082	0	NA		pos	24.72	NA		NA		NA	F	234	No	Goats
+F083	0	pos	18.83	pos	20.93	NA		NA		NA	F	235	No	Goats
+F084	0	NA		pos	22.42	NA		NA		NA	F	236	No	Goats
+F085	0	pos	9.64	pos	21.43	NA		NA		NA	F	237	No	Goats
+F086	0	pos	11.09	pos	22.34	NA		NA		NA	F	238	No	Goats
+F087	0	neg		pos	23.53	NA		NA		NA	F	239	No	Goats
+F088	0	pos	22.55	pos	19.29	NA		NA		NA	F	240	No	Goats
+F089	0	pos	21.59	pos	22.15	NA		NA		NA	F	241	No	Goats
+F090	0	pos	17.63	pos	20.1	NA		NA		NA	F	242	No	Goats
+F091	0	neg		pos	20.44	NA		NA		NA	F	243	No	Goats
+F092	0	pos	20.01	pos	22.07	NA		NA		NA	F	244	No	Goats
+F093	0	pos	38.65	pos	26.05	NA		NA		NA	F	245	No	Goats
+F094	0	pos	16.27	pos	20.69	NA		NA		NA	F	246	No	Goats
+F095	0	neg		pos	25.02	NA		NA		NA	F	247	No	Goats
+F096	0	pos	10.42	pos	21.76	NA		NA		NA	F	248	No	Goats
+F097	0	pos	9.56	pos	22.61	NA		NA		NA	F	249	No	Goats
+F098	0	pos	12.06	pos	22.65	NA		NA		NA	F	250	No	Goats
+F099	0	pos	29.31	pos	19.2	NA		NA		NA	F	251	No	Goats
+F100	0	pos	15.16	pos	14.08	NA		NA		NA	F	252	No	Goats
+F101	0	neg		pos	22.8	NA		NA		NA	F	253	No	Goats
+F102	0	pos	18.63	pos	21.92	NA		NA		NA	F	254	No	Goats
+F103	0	pos	26.39	pos	20.16	NA		NA		NA	F	255	No	Goats
+H001	>=1	neg		pos	35.43	neg		pos	177	NA	H	256	No	Goats
+H002	>=1	neg		pos	39.24	neg		NA		NA	H	257	No	Goats
+H003	>=1	neg		neg		neg		NA		NA	H	258	No	Goats
+H004	>=1	neg		neg		neg		NA		NA	H	259	No	Goats
+H005	>=1	neg		pos	33.85	neg		pos	276	NA	H	260	No	Goats
+H006	>=1	neg		neg		NA		NA		NA	H	261	No	Goats
+H007	>=1	neg		pos	36.84	neg		pos	88	NA	H	262	No	Goats
+H008	>=1	neg		neg		neg		neg	-4	NA	H	263	No	Goats
+H009	>=1	neg		pos	35.35	neg		pos	33	NA	H	264	No	Goats
+H010	>=1	neg		neg		NA		NA		NA	H	265	No	Goats
+H011	>=1	neg		neg		neg		pos	38	NA	H	266	No	Goats
+H012	>=1	neg		neg		neg		pos	263	NA	H	267	No	Goats
+H013	>=1	neg		pos	36.44	NA		NA		NA	H	268	No	Goats
+H014	>=1	neg		neg		neg		NA		NA	H	269	No	Goats
+H015	>=1	neg		pos	39.52	neg		pos	66	NA	H	270	No	Goats
+H016	>=1	neg		neg		neg		neg	23	NA	H	271	No	Goats
+H017	>=1	neg		neg		NA		NA		NA	H	272	No	Goats
+H018	>=1	neg		neg		neg		pos	44	NA	H	273	No	Goats
+H019	>=1	neg		pos	37.88	neg		neg	6	NA	H	274	No	Goats
+H020	>=1	neg		pos	38	neg		neg	6	NA	H	275	No	Goats
+H021	>=1	neg		neg		NA		NA		NA	H	276	No	Goats
+H022	>=1	neg		neg		neg		pos	234	NA	H	277	No	Goats
+H023	>=1	neg		pos	38.97	neg		neg	21	NA	H	278	No	Goats
+H024	>=1	neg		neg		NA		NA		NA	H	279	No	Goats
+H025	>=1	neg		pos	38.07	NA		NA		NA	H	280	No	Goats
+H026	>=1	neg		neg		neg		neg	6	NA	H	281	No	Goats
+H027	>=1	neg		neg		neg		pos	65	NA	H	282	No	Goats
+H028	>=1	neg		neg		neg		pos	238	NA	H	283	No	Goats
+H029	>=1	neg		pos	36.18	neg		pos	252	NA	H	284	No	Goats
+H030	>=1	neg		neg		neg		pos	332	NA	H	285	No	Goats
+H031	>=1	neg		pos	34.58	NA		NA		NA	H	286	No	Goats
+H032	>=1	neg		neg		neg		NA		NA	H	287	No	Goats
+H033	>=1	neg		neg		NA		NA		NA	H	288	No	Goats
+H034	>=1	neg		neg		NA		NA		NA	H	289	No	Goats
+H035	>=1	neg		neg		neg		pos	44	NA	H	290	No	Goats
+H036	>=1	neg		pos	37.61	neg		pos	127	NA	H	291	No	Goats
+H037	>=1	neg		neg		neg		pos	172	NA	H	292	No	Goats
+H038	>=1	neg		neg		NA		NA		NA	H	293	No	Goats
+H039	>=1	neg		neg		neg		pos	191	NA	H	294	No	Goats
+H040	>=1	neg		pos	34.69	neg		pos	50	NA	H	295	No	Goats
+H041	>=1	neg		neg		neg		pos	115	NA	H	296	No	Goats
+H042	>=1	neg		pos	35.4	neg		pos	136	NA	H	297	No	Goats
+H043	>=1	neg		neg		NA		NA		NA	H	298	No	Goats
+H044	>=1	neg		neg		neg		pos	109	NA	H	299	No	Goats
+H045	>=1	neg		neg		NA		NA		NA	H	300	No	Goats
+H046	>=1	neg		neg		neg		pos	248	NA	H	301	No	Goats
+H047	>=1	neg		neg		neg		pos	88	NA	H	302	No	Goats
+H048	>=1	neg		neg		neg		pos	106	NA	H	303	No	Goats
+H049	>=1	neg		pos	38.06	neg		pos	211	NA	H	304	No	Goats
+H050	>=1	neg		neg		neg		neg	22	NA	H	305	No	Goats
+H051	0	pos	32.61	pos	38.81	NA		NA		NA	H	306	No	Goats
+H052	0	neg		neg		NA		NA		NA	H	307	No	Goats
+H054	0	neg		neg		NA		NA		NA	H	308	No	Goats
+H055	0	neg		neg		NA		NA		NA	H	309	No	Goats
+H056	0	neg		neg		NA		NA		NA	H	310	No	Goats
+H057	0	neg		neg		NA		NA		NA	H	311	No	Goats
+H058	0	neg		neg		NA		NA		NA	H	312	No	Goats
+H059	0	neg		neg		NA		NA		NA	H	313	No	Goats
+H060	0	neg		neg		NA		NA		NA	H	314	No	Goats
+H061	0	neg		neg		NA		NA		NA	H	315	No	Goats
+H062	0	neg		neg		NA		NA		NA	H	316	No	Goats
+H063	0	neg		neg		NA		NA		NA	H	317	No	Goats
+H064	0	neg		neg		NA		NA		NA	H	318	No	Goats
+H065	0	neg		pos	38.4	NA		NA		NA	H	319	No	Goats
+H066	0	neg		neg		NA		NA		NA	H	320	No	Goats
+H067	0	neg		pos	39.08	NA		NA		NA	H	321	No	Goats
+H068	0	neg		neg		NA		NA		NA	H	322	No	Goats
+H069	0	neg		neg		NA		NA		NA	H	323	No	Goats
+H070	0	neg		neg		NA		NA		NA	H	324	No	Goats
+H071	0	neg		pos	37.8	NA		NA		NA	H	325	No	Goats
+H072	0	neg		neg		NA		NA		NA	H	326	No	Goats
+H073	0	neg		neg		NA		NA		NA	H	327	No	Goats
+H074	0	neg		neg		NA		NA		NA	H	328	No	Goats
+H075	0	neg		neg		NA		NA		NA	H	329	No	Goats
+H076	0	neg		neg		NA		NA		NA	H	330	No	Goats
+H077	0	neg		neg		NA		NA		NA	H	331	No	Goats
+H078	0	neg		neg		NA		NA		NA	H	332	No	Goats
+H079	0	neg		neg		NA		NA		NA	H	333	No	Goats
+H080	0	neg		neg		NA		NA		NA	H	334	No	Goats
+H081	0	neg		neg		NA		NA		NA	H	335	No	Goats
+H082	0	neg		neg		NA		NA		NA	H	336	No	Goats
+H083	0	NA		neg		NA		NA		NA	H	337	No	Goats
+H084	0	neg		neg		NA		NA		NA	H	338	No	Goats
+H085	0	neg		neg		NA		NA		NA	H	339	No	Goats
+H086	0	neg		neg		NA		NA		NA	H	340	No	Goats
+H087	0	neg		neg		NA		NA		NA	H	341	No	Goats
+H088	0	neg		neg		NA		NA		NA	H	342	No	Goats
+H089	0	neg		neg		NA		NA		NA	H	343	No	Goats
+H090	0	neg		neg		NA		NA		NA	H	344	No	Goats
+H091	0	neg		neg		NA		NA		NA	H	345	No	Goats
+H092	0	neg		neg		NA		NA		NA	H	346	No	Goats
+H093	0	neg		pos	36.58	NA		NA		NA	H	347	No	Goats
+H094	0	neg		neg		NA		NA		NA	H	348	No	Goats
+H095	0	neg		neg		NA		NA		NA	H	349	No	Goats
+H096	0	neg		neg		NA		NA		NA	H	350	No	Goats
+H097	0	neg		neg		NA		NA		NA	H	351	No	Goats
+H098	0	neg		pos	34.99	NA		NA		NA	H	352	No	Goats
+H099	0	neg		neg		NA		NA		NA	H	353	No	Goats
+H100	0	neg		neg		NA		NA		NA	H	354	No	Goats
+K001	>=1	neg		pos	24.9	pos	27.2	pos	53	NA	K	355	No	Goats
+K002	>=1	pos	31.68	pos	5.57	NA		NA	-8	NA	K	356	No	Goats
+K003	>=1	NA		pos	25.45	pos	23.4	pos	91	NA	K	357	No	Goats
+K004	>=1	pos	29.08	pos	23.37	pos	25.1	pos	118	NA	K	358	No	Goats
+K005	>=1	pos	25.14	pos	24.99	pos	30.1	pos	56	NA	K	359	No	Goats
+K006	>=1	neg		pos	25.07	pos	25.7	pos	102	NA	K	360	No	Goats
+K007	>=1	NA		pos	26.32	pos	32.6	pos	42	NA	K	361	No	Goats
+K008	>=1	pos	38.62	pos	26.38	pos	32.1	pos	87	NA	K	362	No	Goats
+K009	>=1	pos	32.47	pos	23.01	pos	35	pos	70	NA	K	363	No	Goats
+K010	>=1	NA		pos	23.27	pos	29.5	NA	6	NA	K	364	No	Goats
+K011	>=1	neg		pos	21.88	pos	23.1	pos	70	NA	K	365	No	Goats
+K012	>=1	neg		pos	24.08	pos	30.2	NA		NA	K	366	No	Goats
+K013	>=1	neg		pos	30.23	pos	29.2	pos	40	NA	K	367	No	Goats
+K014	>=1	pos	20.14	pos	24.01	pos	31.6	pos	49	NA	K	368	No	Goats
+K015	>=1	neg		pos	25.38	pos	30.7	pos	196	NA	K	369	No	Goats
+K016	>=1	pos	31.47	pos	25.16	pos	28	pos	45	NA	K	370	No	Goats
+K017	>=1	neg		pos	29.46	NA		NA	6	NA	K	371	No	Goats
+K018	>=1	NA		pos	28.38	pos	27.4	pos	67	NA	K	372	No	Goats
+K019	>=1	neg		pos	25.16	NA		NA	-7	NA	K	373	No	Goats
+K020	>=1	neg		pos	25.02	pos	22.3	pos	87	NA	K	374	No	Goats
+K021	>=1	NA		pos	25.39	pos	25.3	NA	-2	NA	K	375	No	Goats
+K022	>=1	pos	32.01	pos	21.42	pos	31.2	pos	80	NA	K	376	No	Goats
+K023	>=1	NA		pos	22.49	pos	25.8	pos	75	NA	K	377	No	Goats
+K024	>=1	neg		pos	24.25	neg		NA		NA	K	378	No	Goats
+K025	>=1	NA		pos	27.8	pos	32.8	pos	90	NA	K	379	No	Goats
+K026	>=1	NA		pos	25.16	pos	26.1	pos	46	NA	K	380	No	Goats
+K027	>=1	neg		pos	25.8	pos	31.1	pos	67	NA	K	381	No	Goats
+K028	>=1	pos	36.58	pos	23.12	NA		NA	-7	NA	K	382	No	Goats
+K029	>=1	NA		pos	24.06	pos	30.4	pos	54	NA	K	383	No	Goats
+K030	>=1	pos	20.7	pos	28.45	pos	31.9	pos	103	NA	K	384	No	Goats
+K031	>=1	NA		pos	26.71	pos	30.4	neg	29	NA	K	385	No	Goats
+K032	>=1	NA		pos	29.05	pos	32.9	pos	32	NA	K	386	No	Goats
+K033	>=1	pos	18.19	pos	26.45	NA		NA	-7	NA	K	387	No	Goats
+K034	>=1	pos	4.44	pos	31.28	pos	27.8	pos	99	NA	K	388	No	Goats
+K035	>=1	neg		pos	25.12	pos	26.7	pos	69	NA	K	389	No	Goats
+K036	>=1	pos	35	pos	26.23	pos	24.5	NA		NA	K	390	No	Goats
+K037	>=1	pos	35.37	pos	26.27	pos	34.6	pos	85	NA	K	391	No	Goats
+K038	>=1	pos	36.1	pos	30.54	pos	25.5	pos	116	NA	K	392	No	Goats
+K039	>=1	neg		pos	21.04	pos	27	neg	21	NA	K	393	No	Goats
+K051	0	pos	21.53	pos	23.76	NA		NA		NA	K	394	No	Goats
+K052	0	pos	21.89	pos	24.08	NA		NA		NA	K	395	No	Goats
+K053	0	pos	37.71	pos	23.04	NA		NA		NA	K	396	No	Goats
+K054	0	pos	30.16	pos	25.28	NA		NA		NA	K	397	No	Goats
+K055	0	pos	39.04	pos	28.1	NA		NA		NA	K	398	No	Goats
+K056	0	pos	34.24	pos	23.54	NA		NA		NA	K	399	No	Goats
+K057	0	pos	33.59	pos	24.98	NA		NA		NA	K	400	No	Goats
+K058	0	pos	33.88	pos	24.73	NA		NA		NA	K	401	No	Goats
+K059	0	pos	38.09	pos	24.82	NA		NA		NA	K	402	No	Goats
+K060	0	pos	36	pos	26.04	NA		NA		NA	K	403	No	Goats
+K061	0	neg		pos	24.17	NA		NA		NA	K	404	No	Goats
+K062	0	pos	11.77	pos	25.61	NA		NA		NA	K	405	No	Goats
+K063	0	pos	30.18	pos	24.02	NA		NA		NA	K	406	No	Goats
+K064	0	pos	28.56	pos	23.51	NA		NA		NA	K	407	No	Goats
+K065	0	pos	32.07	pos	25.56	NA		NA		NA	K	408	No	Goats
+K067	0	pos	31.11	pos	23.46	NA		NA		NA	K	409	No	Goats
+K068	0	pos	32	pos	22.66	NA		NA		NA	K	410	No	Goats
+K069	0	neg		pos	27.63	NA		NA		NA	K	411	No	Goats
+K070	0	pos	39.14	pos	25.02	NA		NA		NA	K	412	No	Goats
+K071	0	NA		pos	28.62	NA		NA		NA	K	413	No	Goats
+K072	0	pos	35.77	pos	26.02	NA		NA		NA	K	414	No	Goats
+K073	0	NA		pos	23.19	NA		NA		NA	K	415	No	Goats
+K074	0	NA		pos	23.01	NA		NA		NA	K	416	No	Goats
+K075	0	neg		pos	22.79	NA		NA		NA	K	417	No	Goats
+K076	0	neg		pos	30.03	NA		NA		NA	K	418	No	Goats
+K077	0	NA		pos	24.3	NA		NA		NA	K	419	No	Goats
+K078	0	pos	27.02	pos	24.7	NA		NA		NA	K	420	No	Goats
+K079	0	pos	32.24	pos	26.56	NA		NA		NA	K	421	No	Goats
+K080	0	NA		pos	1.5	NA		NA		NA	K	422	No	Goats
+K081	0	pos	35.25	pos	24.68	NA		NA		NA	K	423	No	Goats
+K082	0	NA		pos	24.28	NA		NA		NA	K	424	No	Goats
+K083	0	pos	36.72	pos	24.85	NA		NA		NA	K	425	No	Goats
+L001	>=1	neg		neg		NA		NA		NA	L	426	No	Goats
+L002	>=1	neg		neg		neg		pos	181	NA	L	427	No	Goats
+L003	>=1	neg		neg		NA		NA		NA	L	428	No	Goats
+L004	>=1	neg		neg		neg		pos	87	NA	L	429	No	Goats
+L005	>=1	neg		neg		neg		pos	155	NA	L	430	No	Goats
+L006	>=1	neg		neg		neg		pos	31	NA	L	431	No	Goats
+L007	>=1	neg		neg		NA		NA		NA	L	432	No	Goats
+L008	>=1	neg		neg		neg		pos	130	NA	L	433	No	Goats
+L009	>=1	neg		neg		neg		pos	41	NA	L	434	No	Goats
+L010	>=1	neg		neg		neg		pos	82	NA	L	435	No	Goats
+L011	>=1	neg		neg		neg		pos	61	NA	L	436	No	Goats
+L012	>=1	neg		neg		neg		pos	106	NA	L	437	No	Goats
+L013	>=1	neg		neg		neg		pos	196	NA	L	438	No	Goats
+L014	>=1	neg		neg		neg		pos	52	NA	L	439	No	Goats
+L015	>=1	neg		neg		neg		pos	101	NA	L	440	No	Goats
+L016	>=1	neg		neg		neg		pos	97	NA	L	441	No	Goats
+L017	>=1	neg		neg		neg		pos	123	NA	L	442	No	Goats
+L018	>=1	neg		neg		neg		pos	45	NA	L	443	No	Goats
+L019	>=1	neg		neg		neg		pos	98	NA	L	444	No	Goats
+L020	>=1	neg		neg		neg		pos	187	NA	L	445	No	Goats
+L021	>=1	neg		neg		neg		pos	161	NA	L	446	No	Goats
+L022	>=1	neg		neg		neg		pos	146	NA	L	447	No	Goats
+L023	>=1	neg		neg		neg		pos	200	NA	L	448	No	Goats
+L024	>=1	neg		neg		neg		neg	3	NA	L	449	No	Goats
+L025	>=1	neg		neg		NA		NA		NA	L	450	No	Goats
+L026	>=1	neg		neg		pos	22.5	pos	265	NA	L	451	No	Goats
+L027	>=1	neg		neg		pos	34.3	pos	155	NA	L	452	No	Goats
+L028	>=1	neg		neg		neg		pos	211	NA	L	453	No	Goats
+L029	>=1	neg		neg		neg		pos	116	NA	L	454	No	Goats
+L030	>=1	neg		neg		neg		pos	115	NA	L	455	No	Goats
+L031	>=1	neg		neg		NA		NA		NA	L	456	No	Goats
+L032	>=1	neg		pos	28.59	neg		pos	109	NA	L	457	No	Goats
+L033	>=1	neg		pos	37.54	pos	38.4	pos	189	NA	L	458	No	Goats
+L034	>=1	neg		neg		neg		pos	146	NA	L	459	No	Goats
+L035	>=1	neg		neg		pos	18.1	pos	302	NA	L	460	No	Goats
+L036	>=1	neg		neg		neg		pos	263	NA	L	461	No	Goats
+L037	>=1	neg		neg		NA		NA		NA	L	462	No	Goats
+L038	>=1	neg		pos	38.97	neg		pos	258	NA	L	463	No	Goats
+L039	>=1	neg		neg		neg		neg	26	NA	L	464	No	Goats
+L040	>=1	neg		neg		neg		pos	134	NA	L	465	No	Goats
+L041	>=1	neg		neg		neg		neg	23	NA	L	466	No	Goats
+L042	>=1	neg		neg		neg		pos	181	NA	L	467	No	Goats
+L043	>=1	neg		neg		neg		pos	222	NA	L	468	No	Goats
+L044	>=1	neg		pos	36.02	neg		pos	184	NA	L	469	No	Goats
+L045	>=1	neg		neg		neg		pos	124	NA	L	470	No	Goats
+L046	>=1	neg		neg		pos	37.8	pos	244	NA	L	471	No	Goats
+L047	>=1	neg		neg		neg		pos	86	NA	L	472	No	Goats
+L048	>=1	neg		neg		neg		pos	105	NA	L	473	No	Goats
+L049	>=1	neg		neg		NA		NA		NA	L	474	No	Goats
+L050	>=1	neg		neg		neg		pos	138	NA	L	475	No	Goats
+L051	0	neg		neg		NA		NA		NA	L	476	No	Goats
+L052	0	neg		pos	39.47	NA		NA		NA	L	477	No	Goats
+L053	0	neg		neg		NA		NA		NA	L	478	No	Goats
+L054	0	neg		pos	36.87	NA		NA		NA	L	479	No	Goats
+L055	0	neg		pos	37	NA		NA		NA	L	480	No	Goats
+L056	0	neg		pos	34.64	NA		NA		NA	L	481	No	Goats
+L057	0	neg		neg		NA		NA		NA	L	482	No	Goats
+L058	0	neg		neg		NA		NA		NA	L	483	No	Goats
+L059	0	neg		pos	38.08	NA		NA		NA	L	484	No	Goats
+L060	0	neg		pos	37.64	NA		NA		NA	L	485	No	Goats
+L061	0	neg		pos	38.85	NA		NA		NA	L	486	No	Goats
+L062	0	neg		neg		NA		NA		NA	L	487	No	Goats
+L063	0	neg		neg		NA		NA		NA	L	488	No	Goats
+L064	0	neg		neg		NA		NA		NA	L	489	No	Goats
+L065	0	neg		neg		NA		NA		NA	L	490	No	Goats
+L066	0	neg		neg		NA		NA		NA	L	491	No	Goats
+L067	0	neg		neg		NA		NA		NA	L	492	No	Goats
+L068	0	neg		neg		NA		NA		NA	L	493	No	Goats
+L069	0	neg		pos	38.05	NA		NA		NA	L	494	No	Goats
+L070	0	neg		neg		NA		NA		NA	L	495	No	Goats
+L071	0	neg		neg		NA		NA		NA	L	496	No	Goats
+L072	0	neg		neg		NA		NA		NA	L	497	No	Goats
+L073	0	neg		pos	37	NA		NA		NA	L	498	No	Goats
+L074	0	neg		neg		NA		NA		NA	L	499	No	Goats
+L075	0	neg		neg		NA		NA		NA	L	500	No	Goats
+L076	0	neg		neg		NA		NA		NA	L	501	No	Goats
+L077	0	neg		neg		NA		NA		NA	L	502	No	Goats
+L078	0	neg		neg		NA		NA		NA	L	503	No	Goats
+L079	0	neg		neg		NA		NA		NA	L	504	No	Goats
+L080	0	neg		neg		NA		NA		NA	L	505	No	Goats
+L081	0	neg		pos	32.06	NA		NA		NA	L	506	No	Goats
+L082	0	neg		neg		NA		NA		NA	L	507	No	Goats
+L083	0	neg		neg		NA		NA		NA	L	508	No	Goats
+L084	0	neg		neg		NA		NA		NA	L	509	No	Goats
+L085	0	neg		neg		NA		NA		NA	L	510	No	Goats
+L086	0	neg		neg		NA		NA		NA	L	511	No	Goats
+L087	0	neg		pos	36.78	NA		NA		NA	L	512	No	Goats
+L101	>=1	neg		neg		neg		pos	40	NA	L	513	No	Goats
+L102	>=1	neg		neg		neg		pos	210	NA	L	514	No	Goats
+L103	>=1	neg		neg		neg		pos	43	NA	L	515	No	Goats
+L104	>=1	neg		neg		neg		pos	245	NA	L	516	No	Goats
+L105	>=1	neg		neg		neg		pos	181	NA	L	517	No	Goats
+L106	>=1	neg		neg		neg		pos	46	NA	L	518	No	Goats
+L107	>=1	neg		neg		neg		pos	262	NA	L	519	No	Goats
+L108	>=1	neg		neg		neg		pos	160	NA	L	520	No	Goats
+M001	>=1	neg		pos	30.44	neg		pos	126	NA	M	521	Yes	Goats
+M002	>=1	pos	38.42	pos	31.16	neg		pos	281	NA	M	522	Yes	Goats
+M003	>=1	neg		pos	28.77	neg		pos	130	NA	M	523	Yes	Goats
+M004	>=1	neg		pos	34.84	neg		pos	177	NA	M	524	Yes	Goats
+M005	>=1	neg		pos	28.67	pos	36.7	pos	367	NA	M	525	Yes	Goats
+M006	>=1	neg		pos	30.26	neg		pos	218	NA	M	526	Yes	Goats
+M007	>=1	neg		pos	30.21	neg		pos	146	NA	M	527	Yes	Goats
+M008	>=1	neg		pos	29.14	neg		pos	231	NA	M	528	Yes	Goats
+M009	>=1	neg		pos	29.88	neg		pos	231	NA	M	529	Yes	Goats
+M010	>=1	neg		pos	28.74	neg		pos	91	NA	M	530	Yes	Goats
+M011	>=1	neg		pos	28.18	pos	31.6	pos	345	NA	M	531	Yes	Goats
+M012	>=1	neg		pos	31.07	neg		pos	227	NA	M	532	Yes	Goats
+M013	>=1	neg		pos	29.69	neg		pos	226	NA	M	533	Yes	Goats
+M014	>=1	neg		pos	27.35	neg		pos	271	NA	M	534	Yes	Goats
+M015	>=1	NA		pos	30.04	neg		pos	255	NA	M	535	Yes	Goats
+M016	>=1	neg		pos	28.93	neg		pos	38	NA	M	536	Yes	Goats
+M017	>=1	neg		pos	27.7	neg		pos	149	NA	M	537	Yes	Goats
+M018	>=1	neg		pos	28.78	neg		neg	28	NA	M	538	Yes	Goats
+M019	>=1	neg		pos	29.15	pos	34.2	pos	197	NA	M	539	Yes	Goats
+M020	>=1	neg		pos	27.33	neg		pos	284	NA	M	540	Yes	Goats
+M021	>=1	neg		pos	28.38	pos	36.9	pos	323	NA	M	541	Yes	Goats
+M022	>=1	neg		pos	29.79	pos	38	pos	32	NA	M	542	Yes	Goats
+M023	>=1	neg		pos	31.66	neg		pos	165	NA	M	543	Yes	Goats
+M024	>=1	pos	38.92	pos	26.19	neg		pos	133	NA	M	544	Yes	Goats
+M025	>=1	neg		pos	29.51	pos	34	pos	210	NA	M	545	Yes	Goats
+M026	>=1	neg		pos	31.16	neg		pos	185	NA	M	546	Yes	Goats
+M027	>=1	neg		pos	31.56	pos	38.1	pos	238	NA	M	547	Yes	Goats
+M028	>=1	neg		pos	31.17	neg		pos	37	NA	M	548	Yes	Goats
+M029	>=1	pos	37	pos	32	pos	38.8	pos	322	NA	M	549	Yes	Goats
+M030	>=1	neg		pos	28.9	neg		pos	225	NA	M	550	Yes	Goats
+M031	>=1	neg		pos	31.15	pos	36.6	pos	185	NA	M	551	Yes	Goats
+M032	>=1	neg		pos	31.56	neg		pos	321	NA	M	552	Yes	Goats
+M033	>=1	neg		pos	30.07	neg		pos	127	NA	M	553	Yes	Goats
+M034	>=1	neg		pos	28.2	pos	39.3	pos	171	NA	M	554	Yes	Goats
+M035	>=1	neg		pos	31.25	pos	37.8	pos	286	NA	M	555	Yes	Goats
+M036	>=1	neg		pos	28.75	pos	32.5	pos	277	NA	M	556	Yes	Goats
+M037	>=1	neg		pos	33	pos	33.3	pos	36	NA	M	557	Yes	Goats
+M038	>=1	pos	35.43	pos	28.68	NA		NA		NA	M	558	Yes	Goats
+M039	>=1	neg		pos	30.86	neg		pos	213	NA	M	559	Yes	Goats
+M040	>=1	neg		pos	29.38	neg		pos	354	NA	M	560	Yes	Goats
+M041	0	neg		pos	32.3	NA		NA		NA	M	561	Yes	Goats
+M042	>=1	neg		pos	27.75	pos	37.9	pos	297	NA	M	562	Yes	Goats
+M043	>=1	neg		pos	30.5	pos	35	pos	98	NA	M	563	Yes	Goats
+M044	>=1	neg		pos	30.54	neg		pos	190	NA	M	564	Yes	Goats
+M045	>=1	neg		pos	30.4	pos	38.1	pos	265	NA	M	565	Yes	Goats
+M046	>=1	neg		pos	33.45	neg		pos	197	NA	M	566	Yes	Goats
+M047	>=1	neg		pos	32.4	pos	36.9	pos	44	NA	M	567	Yes	Goats
+M048	>=1	neg		pos	29.87	neg		pos	313	NA	M	568	Yes	Goats
+M049	>=1	neg		neg		neg		neg		NA	M	569	Yes	Goats
+M051	0	neg		pos	27.72	NA		NA		NA	M	570	Yes	Goats
+M052	0	neg		pos	31.66	NA		NA		NA	M	571	Yes	Goats
+M053	0	neg		pos	28.85	NA		NA		NA	M	572	Yes	Goats
+M054	0	neg		pos	29.28	NA		NA		NA	M	573	Yes	Goats
+M055	0	neg		pos	27.97	NA		NA		NA	M	574	Yes	Goats
+M056	0	neg		pos	30.01	NA		NA		NA	M	575	Yes	Goats
+M057	0	neg		pos	32.98	NA		NA		NA	M	576	Yes	Goats
+M058	0	neg		NA		NA		NA		NA	M	577	Yes	Goats
+M059	0	pos	37.96	pos	31.28	NA		NA		NA	M	578	Yes	Goats
+M060	0	neg		pos	31.51	NA		NA		NA	M	579	Yes	Goats
+M061	0	neg		pos	31.11	NA		NA		NA	M	580	Yes	Goats
+M062	0	neg		pos	28.56	NA		NA		NA	M	581	Yes	Goats
+M063	0	neg		pos	31.7	NA		NA		NA	M	582	Yes	Goats
+M064	0	neg		pos	30.38	NA		NA		NA	M	583	Yes	Goats
+M065	0	neg		pos	29.42	NA		NA		NA	M	584	Yes	Goats
+M066	0	neg		pos	30.67	NA		NA		NA	M	585	Yes	Goats
+M067	0	neg		neg		NA		NA		NA	M	586	Yes	Goats
+M068	0	neg		pos	29.97	NA		NA		NA	M	587	Yes	Goats
+M069	0	neg		pos	35.02	NA		NA		NA	M	588	Yes	Goats
+M070	0	neg		pos	31.54	NA		NA		NA	M	589	Yes	Goats
+M071	0	neg		pos	32.44	NA		NA		NA	M	590	Yes	Goats
+M072	0	neg		pos	35.21	NA		NA		NA	M	591	Yes	Goats
+M073	0	neg		pos	33.08	NA		NA		NA	M	592	Yes	Goats
+M074	0	neg		pos	29.4	NA		NA		NA	M	593	Yes	Goats
+M075	0	neg		pos	32.16	NA		NA		NA	M	594	Yes	Goats
+M076	0	neg		pos	30.51	NA		NA		NA	M	595	Yes	Goats
+M077	0	neg		pos	30.76	NA		NA		NA	M	596	Yes	Goats
+M078	0	neg		pos	29.07	NA		NA		NA	M	597	Yes	Goats
+M079	0	neg		pos	30.42	NA		NA		NA	M	598	Yes	Goats
+M080	0	neg		pos	35.12	NA		NA		NA	M	599	Yes	Goats
+M081	0	neg		pos	34.92	NA		NA		NA	M	600	Yes	Goats
+M082	0	neg		pos	33.76	NA		NA		NA	M	601	Yes	Goats
+M083	0	neg		pos	32.14	NA		NA		NA	M	602	Yes	Goats
+M084	0	neg		pos	33.79	NA		NA		NA	M	603	Yes	Goats
+M085	0	neg		pos	30.18	NA		NA		NA	M	604	Yes	Goats
+M086	0	neg		pos	36.32	NA		NA		NA	M	605	Yes	Goats
+M087	0	neg		pos	35.93	NA		NA		NA	M	606	Yes	Goats
+M088	0	NA		pos	37.3	NA		NA		NA	M	607	Yes	Goats
+M089	0	neg		pos	31.14	NA		NA		NA	M	608	Yes	Goats
+M090	0	neg		pos	30.88	NA		NA		NA	M	609	Yes	Goats
+M091	0	neg		pos	30.44	NA		NA		NA	M	610	Yes	Goats
+M092	0	neg		pos	32.22	NA		NA		NA	M	611	Yes	Goats
+M093	0	neg		pos	32.46	NA		NA		NA	M	612	Yes	Goats
+M094	0	neg		NA		NA		NA		NA	M	613	Yes	Goats
+M095	0	neg		pos	27.78	NA		NA		NA	M	614	Yes	Goats
+M096	0	neg		pos	34.96	NA		NA		NA	M	615	Yes	Goats
+M097	0	neg		pos	33.11	NA		NA		NA	M	616	Yes	Goats
+M098	0	neg		pos	30.61	NA		NA		NA	M	617	Yes	Goats
+M099	0	neg		pos	34.87	NA		NA		NA	M	618	Yes	Goats
+M100	0	neg		pos	28.82	NA		NA		NA	M	619	Yes	Goats
+P001	>=1	NA		pos	33.37	neg		pos	495	NA	P	620	Yes	Goats
+P003	>=1	NA		neg		neg		pos	174	NA	P	621	Yes	Goats
+P004	>=1	NA		pos	35.78	neg		pos	192	NA	P	622	Yes	Goats
+P005	>=1	NA		pos	36.98	neg		pos	191	NA	P	623	Yes	Goats
+P006	>=1	NA		pos	33.41	neg		pos	121	NA	P	624	Yes	Goats
+P007	>=1	NA		neg		neg		pos	236	NA	P	625	Yes	Goats
+P008	>=1	NA		pos	39.41	neg		pos	319	NA	P	626	Yes	Goats
+P009	>=1	NA		pos	37.42	neg		pos	309	NA	P	627	Yes	Goats
+P010	>=1	NA		pos	39.25	neg		pos	352	NA	P	628	Yes	Goats
+P011	>=1	NA		pos	1.5	neg		pos	34	NA	P	629	Yes	Goats
+P012	>=1	NA		pos	36.37	neg		pos	291	NA	P	630	Yes	Goats
+P013	>=1	NA		neg		neg		pos	47	NA	P	631	Yes	Goats
+P014	>=1	NA		pos	35.12	neg		pos	363	NA	P	632	Yes	Goats
+P015	>=1	NA		neg		neg		pos	181	NA	P	633	Yes	Goats
+P016	>=1	NA		pos	35.31	neg		pos	239	NA	P	634	Yes	Goats
+P017	>=1	NA		pos	37.27	neg		pos	53	NA	P	635	Yes	Goats
+P018	>=1	NA		pos	37.01	neg		pos	424	NA	P	636	Yes	Goats
+P019	>=1	NA		neg		neg		pos	42	NA	P	637	Yes	Goats
+P020	>=1	NA		pos	35.08	neg		pos	284	NA	P	638	Yes	Goats
+P021	>=1	NA		pos	34.34	neg		pos	253	NA	P	639	Yes	Goats
+P022	>=1	NA		pos	34.83	neg		pos	39	NA	P	640	Yes	Goats
+P023	>=1	NA		pos	38.39	neg		pos	101	NA	P	641	Yes	Goats
+P024	>=1	NA		neg		pos	25.71	pos	442	NA	P	642	Yes	Goats
+P025	>=1	NA		neg		neg		pos	194	NA	P	643	Yes	Goats
+P026	>=1	NA		neg		neg		pos	75	NA	P	644	Yes	Goats
+P027	>=1	NA		neg		neg		pos	283	NA	P	645	Yes	Goats
+P028	>=1	NA		pos	37.38	neg		pos	132	NA	P	646	Yes	Goats
+P029	>=1	NA		pos	34.11	neg		pos	62	NA	P	647	Yes	Goats
+P030	>=1	NA		pos	34	neg		pos	318	NA	P	648	Yes	Goats
+P031	>=1	NA		pos	35.59	neg		pos	220	NA	P	649	Yes	Goats
+Q001	>=1	pos	38.16	pos	39.25	neg		pos	115	NA	Q	650	Yes	Goats
+Q002	>=1	NA		neg		neg		pos	320	NA	Q	651	Yes	Goats
+Q003	>=1	neg		neg		neg		pos	253	NA	Q	652	Yes	Goats
+Q004	>=1	neg		pos	36.37	neg		pos	188	NA	Q	653	Yes	Goats
+Q005	>=1	neg		pos	33.9	neg		pos	59	NA	Q	654	Yes	Goats
+Q006	>=1	neg		neg		neg		pos	74	NA	Q	655	Yes	Goats
+Q007	>=1	neg		pos	38.2	neg		pos	267	NA	Q	656	Yes	Goats
+Q008	>=1	neg		pos	39.78	neg		pos	115	NA	Q	657	Yes	Goats
+Q009	>=1	neg		pos	36.33	neg		neg	14	NA	Q	658	Yes	Goats
+Q010	>=1	neg		neg		neg		pos	266	NA	Q	659	Yes	Goats
+Q011	>=1	neg		neg		neg		pos	286	NA	Q	660	Yes	Goats
+Q012	>=1	neg		pos	36.11	neg		pos	65	NA	Q	661	Yes	Goats
+Q013	>=1	neg		pos	36.44	neg		pos	204	NA	Q	662	Yes	Goats
+Q014	>=1	neg		pos	38.71	neg		pos	288	NA	Q	663	Yes	Goats
+Q015	>=1	neg		neg		neg		pos	173	NA	Q	664	Yes	Goats
+Q016	>=1	neg		neg		neg		pos	195	NA	Q	665	Yes	Goats
+Q017	>=1	neg		neg		neg		pos	334	NA	Q	666	Yes	Goats
+Q018	>=1	neg		neg		neg		pos	93	NA	Q	667	Yes	Goats
+Q019	>=1	neg		neg		neg		pos	287	NA	Q	668	Yes	Goats
+Q020	>=1	neg		neg		neg		neg	25	NA	Q	669	Yes	Goats
+Q021	>=1	neg		neg		neg		pos	185	NA	Q	670	Yes	Goats
+Q022	>=1	neg		neg		neg		pos	235	NA	Q	671	Yes	Goats
+Q023	>=1	neg		neg		neg		pos	89	NA	Q	672	Yes	Goats
+Q024	>=1	neg		neg		neg		pos	267	NA	Q	673	Yes	Goats
+Q025	>=1	neg		neg		neg		neg	13	NA	Q	674	Yes	Goats
+Q026	>=1	neg		neg		neg		pos	176	NA	Q	675	Yes	Goats
+Q027	>=1	neg		neg		neg		pos	210	NA	Q	676	Yes	Goats
+Q028	>=1	neg		neg		neg		pos	323	NA	Q	677	Yes	Goats
+Q029	>=1	neg		neg		neg		pos	237	NA	Q	678	Yes	Goats
+Q030	>=1	neg		neg		neg		pos	176	NA	Q	679	Yes	Goats
+Q031	>=1	neg		neg		neg		pos	46	NA	Q	680	Yes	Goats
+Q032	>=1	neg		neg		neg		pos	40	NA	Q	681	Yes	Goats
+Q033	>=1	neg		pos	38.97	neg		pos	262	NA	Q	682	Yes	Goats
+Q034	>=1	neg		pos	37.05	neg		neg	30	NA	Q	683	Yes	Goats
+Q035	>=1	neg		neg		neg		pos	224	NA	Q	684	Yes	Goats
+Q036	>=1	neg		neg		neg		pos	34	NA	Q	685	Yes	Goats
+Q037	>=1	neg		neg		neg		pos	302	NA	Q	686	Yes	Goats
+Q038	>=1	neg		neg		neg		neg	16	NA	Q	687	Yes	Goats
+Q039	>=1	neg		pos	38.33	neg		pos	167	NA	Q	688	Yes	Goats
+Q040	>=1	neg		neg		neg		pos	175	NA	Q	689	Yes	Goats
+Q041	>=1	neg		neg		neg		pos	148	NA	Q	690	Yes	Goats
+Q042	>=1	neg		pos	36	pos	37.1	pos	50	NA	Q	691	Yes	Goats
+Q043	>=1	neg		neg		neg		pos	226	NA	Q	692	Yes	Goats
+Q044	>=1	neg		pos	36.92	neg		pos	33	NA	Q	693	Yes	Goats
+Q045	>=1	neg		neg		neg		pos	105	NA	Q	694	Yes	Goats
+Q046	>=1	neg		neg		pos	35.7	pos	68	NA	Q	695	Yes	Goats
+Q047	>=1	neg		neg		neg		pos	111	NA	Q	696	Yes	Goats
+Q048	>=1	neg		neg		neg		pos	83	NA	Q	697	Yes	Goats
+Q049	>=1	neg		neg		neg		pos	228	NA	Q	698	Yes	Goats
+Q050	>=1	neg		neg		neg		pos	269	NA	Q	699	Yes	Goats
+Q051	0	neg		neg		NA		NA		NA	Q	700	Yes	Goats
+Q052	0	neg		neg		NA		NA		NA	Q	701	Yes	Goats
+Q053	0	neg		neg		NA		NA		NA	Q	702	Yes	Goats
+Q054	0	neg		neg		NA		NA		NA	Q	703	Yes	Goats
+Q055	0	neg		neg		NA		NA		NA	Q	704	Yes	Goats
+Q056	0	neg		neg		NA		NA		NA	Q	705	Yes	Goats
+Q057	0	neg		neg		NA		NA		NA	Q	706	Yes	Goats
+Q058	0	neg		neg		NA		NA		NA	Q	707	Yes	Goats
+Q059	0	neg		neg		NA		NA		NA	Q	708	Yes	Goats
+Q060	0	neg		neg		NA		NA		NA	Q	709	Yes	Goats
+Q061	0	neg		neg		NA		NA		NA	Q	710	Yes	Goats
+Q062	0	neg		neg		NA		NA		NA	Q	711	Yes	Goats
+Q063	0	neg		neg		NA		NA		NA	Q	712	Yes	Goats
+Q064	0	neg		neg		NA		NA		NA	Q	713	Yes	Goats
+Q065	0	neg		neg		NA		NA		NA	Q	714	Yes	Goats
+Q066	0	neg		pos	37.81	NA		NA		NA	Q	715	Yes	Goats
+Q067	0	neg		neg		NA		NA		NA	Q	716	Yes	Goats
+Q068	0	neg		neg		NA		NA		NA	Q	717	Yes	Goats
+Q069	0	neg		neg		NA		NA		NA	Q	718	Yes	Goats
+Q070	0	neg		neg		NA		NA		NA	Q	719	Yes	Goats
+Q071	0	neg		neg		NA		NA		NA	Q	720	Yes	Goats
+Q072	0	neg		neg		NA		NA		NA	Q	721	Yes	Goats
+Q073	0	neg		pos	38.41	NA		NA		NA	Q	722	Yes	Goats
+Q074	0	NA		neg		NA		NA		NA	Q	723	Yes	Goats
+Q075	0	neg		pos	37.62	NA		NA		NA	Q	724	Yes	Goats
+Q076	0	neg		neg		NA		NA		NA	Q	725	Yes	Goats
+Q077	0	neg		neg		NA		NA		NA	Q	726	Yes	Goats
+Q078	0	neg		neg		NA		NA		NA	Q	727	Yes	Goats
+Q079	0	neg		pos	37.96	NA		NA		NA	Q	728	Yes	Goats
+Q080	0	neg		pos	35.47	NA		NA		NA	Q	729	Yes	Goats
+Q081	0	neg		neg		NA		NA		NA	Q	730	Yes	Goats
+Q082	0	neg		pos	35.91	NA		NA		NA	Q	731	Yes	Goats
+Q083	0	neg		pos	39.09	NA		NA		NA	Q	732	Yes	Goats
+Q084	0	neg		neg		NA		NA		NA	Q	733	Yes	Goats
+Q085	0	neg		neg		NA		NA		NA	Q	734	Yes	Goats
+Q086	0	neg		neg		NA		NA		NA	Q	735	Yes	Goats
+Q087	0	neg		neg		NA		NA		NA	Q	736	Yes	Goats
+Q088	0	neg		neg		NA		NA		NA	Q	737	Yes	Goats
+Q089	0	neg		neg		NA		NA		NA	Q	738	Yes	Goats
+Q090	0	neg		neg		NA		NA		NA	Q	739	Yes	Goats
+Q091	0	neg		pos	36.95	NA		NA		NA	Q	740	Yes	Goats
+Q092	0	neg		pos	38.15	NA		NA		NA	Q	741	Yes	Goats
+Q093	0	neg		neg		NA		NA		NA	Q	742	Yes	Goats
+Q094	0	neg		pos	36.7	NA		NA		NA	Q	743	Yes	Goats
+Q095	0	neg		neg		NA		NA		NA	Q	744	Yes	Goats
+Q096	0	neg		neg		NA		NA		NA	Q	745	Yes	Goats
+Q097	0	neg		neg		NA		NA		NA	Q	746	Yes	Goats
+Q098	0	neg		neg		NA		NA		NA	Q	747	Yes	Goats
+Q099	0	neg		neg		NA		NA		NA	Q	748	Yes	Goats
+Q100	0	neg		neg		NA		NA		NA	Q	749	Yes	Goats
+R001	>=1	neg		NA		neg		pos	192	NA	R	750	Yes	Goats
+R002	>=1	neg		NA		neg		pos	427	NA	R	751	Yes	Goats
+R003	>=1	neg		NA		neg		pos	206	NA	R	752	Yes	Goats
+R004	>=1	neg		NA		neg		pos	138	NA	R	753	Yes	Goats
+R005	>=1	neg		NA		neg		pos	118	NA	R	754	Yes	Goats
+R006	>=1	neg		NA		neg		pos	321	NA	R	755	Yes	Goats
+R007	>=1	neg		NA		neg		pos	222	NA	R	756	Yes	Goats
+R008	>=1	neg		NA		neg		pos	372	NA	R	757	Yes	Goats
+R009	>=1	neg		NA		neg		pos	436	NA	R	758	Yes	Goats
+R010	>=1	neg		NA		neg		pos	87	NA	R	759	Yes	Goats
+S001	>=1	neg		neg		pos	37.8	pos	331	NA	S	760	Yes	Goats
+S002	>=1	neg		pos	38.34	pos	39.1	pos	159	NA	S	761	Yes	Goats
+S003	>=1	neg		pos	37.02	neg		pos	209	NA	S	762	Yes	Goats
+S004	>=1	neg		neg		neg		pos	298	NA	S	763	Yes	Goats
+S005	>=1	neg		neg		neg		pos	281	NA	S	764	Yes	Goats
+S006	>=1	NA		neg		neg		pos	54	NA	S	765	Yes	Goats
+S007	>=1	neg		neg		neg		pos	210	NA	S	766	Yes	Goats
+S008	>=1	NA		neg		neg		pos	235	NA	S	767	Yes	Goats
+S009	>=1	neg		neg		neg		pos	137	NA	S	768	Yes	Goats
+S010	>=1	neg		neg		pos	29.7	pos	206	NA	S	769	Yes	Goats
+S011	>=1	neg		neg		neg		pos	86	NA	S	770	Yes	Goats
+S012	>=1	neg		neg		neg		NA		NA	S	771	Yes	Goats
+S013	>=1	neg		neg		pos	36.7	pos	227	NA	S	772	Yes	Goats
+S014	>=1	neg		neg		pos	38.2	NA	-7	NA	S	773	Yes	Goats
+S015	>=1	neg		pos	34.1	neg		pos	254	NA	S	774	Yes	Goats
+S016	>=1	neg		neg		neg		pos	280	NA	S	775	Yes	Goats
+S017	>=1	neg		pos	39.78	neg		pos	164	NA	S	776	Yes	Goats
+S018	>=1	neg		pos	38.32	neg		pos	262	NA	S	777	Yes	Goats
+S019	>=1	neg		pos	37.38	neg		pos	78	NA	S	778	Yes	Goats
+S020	>=1	neg		neg		neg		pos	262	NA	S	779	Yes	Goats
+S021	>=1	neg		neg		neg		pos	45	NA	S	780	Yes	Goats
+S022	>=1	neg		neg		neg		pos	142	NA	S	781	Yes	Goats
+S023	>=1	neg		neg		neg		pos	154	NA	S	782	Yes	Goats
+S024	>=1	neg		pos	35.66	neg		NA		NA	S	783	Yes	Goats
+S025	>=1	NA		neg		pos	39.4	pos	259	NA	S	784	Yes	Goats
+S026	>=1	neg		neg		neg		pos	189	NA	S	785	Yes	Goats
+S027	>=1	neg		neg		neg		pos	307	NA	S	786	Yes	Goats
+S028	>=1	neg		neg		neg		pos	43	NA	S	787	Yes	Goats
+S051	0	neg		neg		NA		NA		NA	S	788	Yes	Goats
+S052	0	neg		neg		NA		NA		NA	S	789	Yes	Goats
+S053	0	neg		neg		NA		NA		NA	S	790	Yes	Goats
+S054	0	neg		pos	37.86	NA		NA		NA	S	791	Yes	Goats
+S055	0	NA		neg		NA		NA		NA	S	792	Yes	Goats
+S056	0	neg		neg		NA		NA		NA	S	793	Yes	Goats
+S057	0	neg		pos	37.78	NA		NA		NA	S	794	Yes	Goats
+S058	0	neg		neg		NA		NA		NA	S	795	Yes	Goats
+S059	0	neg		neg		NA		NA		NA	S	796	Yes	Goats
+S060	0	neg		neg		NA		NA		NA	S	797	Yes	Goats
+S061	0	neg		pos	38.49	NA		NA		NA	S	798	Yes	Goats
+S062	0	neg		neg		NA		NA		NA	S	799	Yes	Goats
+S063	0	neg		neg		NA		NA		NA	S	800	Yes	Goats
+S064	0	neg		pos	28.69	NA		NA		NA	S	801	Yes	Goats
+S065	0	neg		neg		NA		NA		NA	S	802	Yes	Goats
+S066	0	neg		neg		NA		NA		NA	S	803	Yes	Goats
+S067	0	neg		neg		NA		NA		NA	S	804	Yes	Goats
+S068	0	neg		neg		NA		NA		NA	S	805	Yes	Goats
+S069	0	neg		neg		NA		NA		NA	S	806	Yes	Goats
+S070	0	neg		neg		NA		NA		NA	S	807	Yes	Goats
+S071	0	neg		neg		NA		NA		NA	S	808	Yes	Goats
+S072	0	neg		neg		NA		NA		NA	S	809	Yes	Goats
+S073	0	neg		neg		NA		NA		NA	S	810	Yes	Goats
+S074	0	neg		neg		NA		NA		NA	S	811	Yes	Goats
+S075	0	neg		neg		NA		NA		NA	S	812	Yes	Goats
+S076	0	NA		neg		NA		NA		NA	S	813	Yes	Goats
+S077	0	neg		neg		NA		NA		NA	S	814	Yes	Goats
+S078	0	NA		neg		NA		NA		NA	S	815	Yes	Goats
+S079	0	neg		neg		NA		NA		NA	S	816	Yes	Goats
+S080	0	NA		neg		NA		NA		NA	S	817	Yes	Goats
+S081	0	neg		neg		NA		NA		NA	S	818	Yes	Goats
+S082	0	neg		neg		NA		NA		NA	S	819	Yes	Goats
+S083	0	neg		neg		NA		NA		NA	S	820	Yes	Goats
+S084	0	neg		neg		NA		NA		NA	S	821	Yes	Goats
+S085	0	neg		neg		NA		NA		NA	S	822	Yes	Goats
+S086	0	neg		pos	35.86	NA		NA		NA	S	823	Yes	Goats
+S087	0	neg		neg		NA		NA		NA	S	824	Yes	Goats
+S088	0	neg		pos	33.9	NA		NA		NA	S	825	Yes	Goats
+S089	0	neg		neg		NA		NA		NA	S	826	Yes	Goats
+S090	0	neg		neg		NA		NA		NA	S	827	Yes	Goats
+S091	0	neg		pos	38.1	NA		NA		NA	S	828	Yes	Goats
+S092	0	neg		neg		NA		NA		NA	S	829	Yes	Goats
+S093	0	neg		pos	36.06	NA		NA		NA	S	830	Yes	Goats
+S094	0	neg		neg		NA		NA		NA	S	831	Yes	Goats
+S095	0	neg		pos	38.93	NA		NA		NA	S	832	Yes	Goats
+S096	0	neg		neg		NA		NA		NA	S	833	Yes	Goats
+S097	0	neg		pos	32.42	NA		NA		NA	S	834	Yes	Goats
+S098	0	neg		neg		NA		NA		NA	S	835	Yes	Goats
+S099	0	neg		neg		NA		NA		NA	S	836	Yes	Goats
+S100	0	neg		neg		NA		NA		NA	S	837	Yes	Goats
+T001	>=1	neg		NA		neg		pos	238	NA	T	838	Yes	Goats
+T002	>=1	neg		NA		neg		pos	166	NA	T	839	Yes	Goats
+T003	>=1	neg		NA		neg		pos	197	NA	T	840	Yes	Goats
+T004	>=1	neg		NA		neg		pos	282	NA	T	841	Yes	Goats
+T005	>=1	neg		NA		neg		pos	184	NA	T	842	Yes	Goats
+T006	>=1	neg		NA		pos	38.7	pos	300	NA	T	843	Yes	Goats
+T007	>=1	neg		NA		pos	34.1	pos	276	NA	T	844	Yes	Goats
+T008	>=1	neg		NA		neg		pos	257	NA	T	845	Yes	Goats
+T009	>=1	neg		NA		neg		pos	65	NA	T	846	Yes	Goats
+T010	>=1	neg		NA		neg		pos	311	NA	T	847	Yes	Goats
+T011	>=1	neg		NA		neg		pos	298	NA	T	848	Yes	Goats
+T012	>=1	neg		NA		neg		pos	233	NA	T	849	Yes	Goats
+T013	>=1	neg		NA		neg		pos	312	NA	T	850	Yes	Goats
+T014	>=1	neg		NA		neg		pos	358	NA	T	851	Yes	Goats
+T015	>=1	neg		NA		neg		pos	257	NA	T	852	Yes	Goats
+T016	>=1	neg		NA		neg		pos	165	NA	T	853	Yes	Goats
+T017	>=1	neg		NA		neg		pos	319	NA	T	854	Yes	Goats
+T018	>=1	neg		NA		neg		pos	155	NA	T	855	Yes	Goats
+T019	>=1	neg		NA		neg		NA	-8	NA	T	856	Yes	Goats
+T020	>=1	neg		NA		neg		pos	253	NA	T	857	Yes	Goats
+T021	>=1	neg		NA		neg		pos	208	NA	T	858	Yes	Goats
+T022	>=1	neg		NA		neg		pos	107	NA	T	859	Yes	Goats
+T023	>=1	neg		NA		neg		pos	177	NA	T	860	Yes	Goats
+T024	>=1	neg		NA		neg		pos	313	NA	T	861	Yes	Goats
+T025	>=1	neg		NA		neg		pos	302	NA	T	862	Yes	Goats
+T026	>=1	neg		NA		neg		pos	360	NA	T	863	Yes	Goats
+T027	>=1	neg		NA		NA		NA	-7	NA	T	864	Yes	Goats
+T028	>=1	neg		NA		neg		pos	361	NA	T	865	Yes	Goats
+T029	>=1	neg		NA		neg		pos	372	NA	T	866	Yes	Goats
+T030	>=1	neg		NA		pos	36.1	pos	325	NA	T	867	Yes	Goats
+T031	>=1	neg		NA		neg		pos	262	NA	T	868	Yes	Goats
+T032	>=1	neg		NA		neg		pos	273	NA	T	869	Yes	Goats
+T033	>=1	neg		NA		neg		pos	281	NA	T	870	Yes	Goats
+T034	>=1	neg		NA		neg		pos	313	NA	T	871	Yes	Goats
+T035	>=1	neg		NA		neg		pos	250	NA	T	872	Yes	Goats
+T036	>=1	neg		NA		neg		pos	267	NA	T	873	Yes	Goats
+T037	>=1	neg		NA		pos	39.6	pos	199	NA	T	874	Yes	Goats
+T038	>=1	neg		NA		neg		pos	149	NA	T	875	Yes	Goats
+T039	>=1	neg		NA		neg		pos	293	NA	T	876	Yes	Goats
+T040	>=1	neg		NA		neg		pos	218	NA	T	877	Yes	Goats
+T041	>=1	neg		NA		pos	31.4	pos	267	NA	T	878	Yes	Goats
+T042	>=1	neg		NA		neg		pos	347	NA	T	879	Yes	Goats
+T043	>=1	neg		NA		pos	22.6	pos	282	NA	T	880	Yes	Goats
+T044	>=1	neg		NA		neg		pos	256	NA	T	881	Yes	Goats
+T045	>=1	neg		NA		neg		pos	141	NA	T	882	Yes	Goats
+T046	>=1	neg		NA		neg		pos	285	NA	T	883	Yes	Goats
+T047	>=1	neg		NA		neg		pos	278	NA	T	884	Yes	Goats
+T051	0	neg		NA		NA		NA		NA	T	885	Yes	Goats
+T052	0	neg		NA		NA		NA		NA	T	886	Yes	Goats
+T053	0	neg		NA		NA		NA		NA	T	887	Yes	Goats
+T054	0	neg		NA		NA		NA		NA	T	888	Yes	Goats
+T055	0	neg		NA		NA		NA		NA	T	889	Yes	Goats
+T056	0	neg		NA		NA		NA		NA	T	890	Yes	Goats
+T057	0	neg		NA		NA		NA		NA	T	891	Yes	Goats
+T058	0	neg		NA		NA		NA		NA	T	892	Yes	Goats
+T059	0	neg		NA		NA		NA		NA	T	893	Yes	Goats
+T060	0	neg		NA		NA		NA		NA	T	894	Yes	Goats
+T061	0	neg		NA		NA		NA		NA	T	895	Yes	Goats
+T062	0	neg		NA		NA		NA		NA	T	896	Yes	Goats
+T063	0	neg		NA		NA		NA		NA	T	897	Yes	Goats
+T064	0	neg		NA		NA		NA		NA	T	898	Yes	Goats
+T066	0	neg		NA		NA		NA		NA	T	899	Yes	Goats
+T067	0	neg		NA		NA		NA		NA	T	900	Yes	Goats
+T068	0	neg		NA		NA		NA		NA	T	901	Yes	Goats
+T069	0	neg		NA		NA		NA		NA	T	902	Yes	Goats
+T070	0	neg		NA		NA		NA		NA	T	903	Yes	Goats
+T071	0	neg		NA		NA		NA		NA	T	904	Yes	Goats
+T072	0	neg		NA		NA		NA		NA	T	905	Yes	Goats
+T073	0	neg		NA		NA		NA		NA	T	906	Yes	Goats
+T074	0	neg		NA		NA		NA		NA	T	907	Yes	Goats
+T075	0	neg		NA		NA		NA		NA	T	908	Yes	Goats
+T076	0	neg		NA		NA		NA		NA	T	909	Yes	Goats
+T077	0	neg		NA		NA		NA		NA	T	910	Yes	Goats
+T078	0	neg		NA		NA		NA		NA	T	911	Yes	Goats
+T079	0	neg		NA		NA		NA		NA	T	912	Yes	Goats
+T080	0	neg		NA		NA		NA		NA	T	913	Yes	Goats
+T081	0	neg		NA		NA		NA		NA	T	914	Yes	Goats
+T082	0	neg		NA		NA		NA		NA	T	915	Yes	Goats
+T083	0	neg		NA		NA		NA		NA	T	916	Yes	Goats
+T084	0	neg		NA		NA		NA		NA	T	917	Yes	Goats
+T085	0	neg		NA		NA		NA		NA	T	918	Yes	Goats
+T086	0	neg		NA		NA		NA		NA	T	919	Yes	Goats
+T087	0	neg		NA		NA		NA		NA	T	920	Yes	Goats
+T088	0	neg		NA		NA		NA		NA	T	921	Yes	Goats
+T089	0	neg		NA		NA		NA		NA	T	922	Yes	Goats
+T090	0	neg		NA		NA		NA		NA	T	923	Yes	Goats
+T091	0	neg		NA		NA		NA		NA	T	924	Yes	Goats
+T092	0	neg		NA		NA		NA		NA	T	925	Yes	Goats
+T093	0	neg		NA		NA		NA		NA	T	926	Yes	Goats
+T094	0	neg		NA		NA		NA		NA	T	927	Yes	Goats
+T095	0	neg		NA		NA		NA		NA	T	928	Yes	Goats
+T096	0	neg		NA		NA		NA		NA	T	929	Yes	Goats
+T097	0	neg		NA		NA		NA		NA	T	930	Yes	Goats
+T098	0	neg		NA		NA		NA		NA	T	931	Yes	Goats
+T099	0	neg		NA		NA		NA		NA	T	932	Yes	Goats
+T100	0	neg		NA		NA		NA		NA	T	933	Yes	Goats
+X001	>=1	neg		neg		pos	37.4	pos	65	neg	X	934	No	Sheep
+X002	>=1	neg		pos	34.8	NA		NA		pos	X	935	No	Sheep
+X003	>=1	neg		pos	32.16	neg		pos	226	pos	X	936	No	Sheep
+X004	>=1	neg		pos	30.34	neg		pos	147	pos	X	937	No	Sheep
+X005	>=1	neg		pos	32.73	neg		pos	60	neg	X	938	No	Sheep
+X006	>=1	neg		pos	34.31	neg		pos	205	pos	X	939	No	Sheep
+X007	>=1	neg		pos	30.57	neg		pos	128	pos	X	940	No	Sheep
+X008	>=1	neg		pos	32.13	neg		pos	74	neg	X	941	No	Sheep
+X009	>=1	neg		pos	33.33	neg		pos	150	neg	X	942	No	Sheep
+X010	>=1	neg		pos	32.54	pos	39.1	pos	108	neg	X	943	No	Sheep
+X011	>=1	neg		neg		pos	38.3	pos	133	neg	X	944	No	Sheep
+X012	>=1	neg		pos	34.89	neg		pos	42	pos	X	945	No	Sheep
+X013	>=1	neg		pos	32.08	neg		pos	172	pos	X	946	No	Sheep
+X014	>=1	neg		pos	32.02	neg		neg	14	neg	X	947	No	Sheep
+X015	>=1	pos	36.39	pos	34.6	neg		pos	94	neg	X	948	No	Sheep
+X016	>=1	neg		pos	34.39	neg		pos	139	pos	X	949	No	Sheep
+X017	>=1	NA		pos	30.68	neg		neg	13	neg	X	950	No	Sheep
+X018	>=1	neg		pos	32.62	neg		pos	107	neg	X	951	No	Sheep
+X019	>=1	neg		neg		pos	37	pos	149	pos	X	952	No	Sheep
+X020	>=1	neg		pos	29.28	neg		pos	225	pos	X	953	No	Sheep
+X021	>=1	neg		pos	34	pos	36.4	NA		neg	X	954	No	Sheep
+X022	>=1	pos	10.01	pos	34.95	neg		pos	89	pos	X	955	No	Sheep
+X023	>=1	neg		pos	25.03	pos	38.3	pos	180	pos	X	956	No	Sheep
+X024	>=1	pos	35.35	pos	22.45	pos	28	pos	173	neg	X	957	No	Sheep
+X025	>=1	pos	34.49	pos	26.28	pos	25.3	pos	89	neg	X	958	No	Sheep
+X026	>=1	neg		NA		pos	27.3	pos	68	neg	X	959	No	Sheep
+X027	>=1	pos	39.34	pos	21.69	pos	27	pos	85	neg	X	960	No	Sheep
+X028	>=1	pos	36.16	pos	28.74	pos	31	pos	95	neg	X	961	No	Sheep
+X029	>=1	neg		pos	30.54	pos	32	pos	181	pos	X	962	No	Sheep
+X030	>=1	pos	36.2	pos	28.37	neg		pos	195	pos	X	963	No	Sheep
+X031	>=1	neg		pos	29.3	NA		NA		neg	X	964	No	Sheep
+X032	>=1	pos	35.04	pos	23.39	pos	35.2	pos	158	pos	X	965	No	Sheep
+X033	>=1	neg		pos	25.46	pos	27.1	pos	112	pos	X	966	No	Sheep
+X034	>=1	pos	38.31	pos	29.91	pos	38.1	pos	47	neg	X	967	No	Sheep
+X035	>=1	pos	37.48	pos	27.99	pos	32.3	pos	104	neg	X	968	No	Sheep
+X036	>=1	NA		pos	25.92	pos	38	pos	132	neg	X	969	No	Sheep
+X037	>=1	pos	36.04	pos	29.98	pos	32.2	pos	118	neg	X	970	No	Sheep
+X038	>=1	pos	36	pos	27.59	pos	35.8	neg	23	neg	X	971	No	Sheep
+X039	>=1	pos	36.42	pos	28.52	pos	27.4	NA		pos	X	972	No	Sheep
+X040	>=1	neg		pos	26.37	pos	31.1	pos	157	pos	X	973	No	Sheep
+X041	>=1	NA		pos	34.71	pos	34.3	pos	170	pos	X	974	No	Sheep
+X042	>=1	neg		pos	27.24	pos	35	neg	20	neg	X	975	No	Sheep
+X043	>=1	neg		pos	25.97	pos	32.4	pos	69	neg	X	976	No	Sheep
+X044	>=1	neg		pos	25.5	pos	33.6	pos	131	neg	X	977	No	Sheep
+X045	>=1	neg		pos	28.05	neg		neg	-7	neg	X	978	No	Sheep
+X046	>=1	neg		pos	25.7	pos	36.1	pos	84	neg	X	979	No	Sheep
+X047	>=1	neg		pos	29.08	pos	31.1	pos	140	neg	X	980	No	Sheep
+X048	>=1	pos	36.17	pos	28.76	pos	33.6	pos	86	neg	X	981	No	Sheep
+X049	>=1	neg		pos	26.99	NA		NA		pos	X	982	No	Sheep
+X050	>=1	neg		pos	24.16	pos	39.5	pos	239	pos	X	983	No	Sheep
+X051	>=1	NA		pos	31.38	neg		pos	158	neg	X	984	No	Sheep
+X052	>=1	pos	35.26	pos	32.32	neg		pos	163	neg	X	985	No	Sheep
+X053	>=1	pos	34.22	pos	31.88	neg		pos	157	neg	X	986	No	Sheep
+X054	>=1	neg		pos	32.19	neg		pos	65	NA	X	987	No	Sheep
+X055	>=1	neg		pos	32.04	neg		pos	117	neg	X	988	No	Sheep
+X056	>=1	pos	36.94	pos	31.92	neg		pos	158	pos	X	989	No	Sheep
+X057	>=1	neg		pos	33.05	neg		pos	211	pos	X	990	No	Sheep
+X058	>=1	neg		pos	33.58	neg		pos	147	neg	X	991	No	Sheep
+X059	>=1	neg		pos	31.15	neg		pos	163	pos	X	992	No	Sheep
+X060	>=1	neg		pos	35.21	neg		pos	110	neg	X	993	No	Sheep
+X061	>=1	neg		pos	35.55	neg		neg	29	neg	X	994	No	Sheep
+X062	>=1	neg		pos	31.35	neg		neg	24	neg	X	995	No	Sheep
+X063	>=1	pos	34.47	pos	28.24	pos	29.2	neg	21	pos	X	996	No	Sheep
+X064	>=1	pos	32.03	pos	35.64	pos	39.5	neg	0	pos	X	997	No	Sheep
+X065	>=1	neg		pos	33.87	neg		pos	192	pos	X	998	No	Sheep
+X066	>=1	pos	37	pos	31.29	neg		pos	79	NA	X	999	No	Sheep
+X067	>=1	neg		neg		neg		pos	170	pos	X	1000	No	Sheep
+X068	>=1	neg		pos	34.11	pos	35.1	NA		pos	X	1001	No	Sheep
+X069	>=1	neg		pos	31.25	neg		NA		pos	X	1002	No	Sheep
+X070	>=1	neg		neg		neg		NA		neg	X	1003	No	Sheep
+X071	>=1	neg		pos	31.26	neg		pos	180	pos	X	1004	No	Sheep
+X072	>=1	neg		pos	31.91	neg		pos	110	pos	X	1005	No	Sheep
+X073	>=1	neg		pos	33.87	neg		pos	118	pos	X	1006	No	Sheep
+X074	>=1	neg		pos	33.73	pos	34.1	neg	29	neg	X	1007	No	Sheep
+X075	>=1	neg		pos	37.36	NA		NA		pos	X	1008	No	Sheep
+X076	>=1	pos	36.84	pos	32.04	pos	34.3	neg	28	neg	X	1009	No	Sheep
+X077	>=1	neg		pos	33.04	pos	30.6	pos	73	pos	X	1010	No	Sheep
+X078	>=1	pos	35.01	pos	32.74	neg		NA	0	neg	X	1011	No	Sheep
+X079	>=1	neg		pos	30.74	pos	38.5	pos	163	pos	X	1012	No	Sheep
+X080	>=1	neg		pos	30.54	neg		pos	147	pos	X	1013	No	Sheep
+X081	>=1	neg		pos	30.97	neg		pos	115	neg	X	1014	No	Sheep
+X082	>=1	pos	33.34	pos	28.55	neg		pos	194	neg	X	1015	No	Sheep
+X083	>=1	pos	36.17	pos	32.04	pos	35.1	pos	199	pos	X	1016	No	Sheep
+X084	0	pos	31.1	pos	31.54	NA		NA		neg	X	1017	No	Sheep
+X085	0	pos	37.58	pos	35.65	NA		NA		pos	X	1018	No	Sheep
+X086	0	neg		pos	31.5	NA		NA		neg	X	1019	No	Sheep
+X087	0	neg		pos	33.73	NA		NA		neg	X	1020	No	Sheep
+X088	0	neg		pos	34.49	NA		NA		pos	X	1021	No	Sheep
+X089	0	pos	35.91	pos	32.03	NA		NA		neg	X	1022	No	Sheep
+X090	0	pos	36.34	pos	32.68	NA		NA		neg	X	1023	No	Sheep
+X091	0	neg		pos	32.51	NA		NA		pos	X	1024	No	Sheep
+X092	0	neg		pos	30.09	NA		NA		neg	X	1025	No	Sheep
+X093	0	neg		pos	33.43	NA		NA		pos	X	1026	No	Sheep
+X094	0	pos	33.1	pos	35.02	NA		NA		pos	X	1027	No	Sheep
+X095	0	neg		pos	35.09	NA		NA		pos	X	1028	No	Sheep
+X096	0	pos	35	pos	34.22	NA		NA		neg	X	1029	No	Sheep
+X097	0	neg		pos	33.7	NA		NA		neg	X	1030	No	Sheep
+X098	0	pos	34.69	pos	34.22	NA		NA		neg	X	1031	No	Sheep
+X099	0	neg		pos	33.52	NA		NA		neg	X	1032	No	Sheep
+X100	0	neg		pos	31.42	NA		NA		neg	X	1033	No	Sheep
+X101	NA	NA		NA		NA		NA		pos	X	1034	No	Sheep
+X102	NA	NA		NA		NA		NA		neg	X	1035	No	Sheep
+X103	NA	NA		NA		NA		NA		pos	X	1036	No	Sheep
+X104	NA	NA		NA		NA		NA		neg	X	1037	No	Sheep
+X105	NA	NA		NA		NA		NA		neg	X	1038	No	Sheep
+X106	NA	NA		NA		NA		NA		neg	X	1039	No	Sheep
+X107	NA	NA		NA		NA		NA		neg	X	1040	No	Sheep
+X108	NA	NA		NA		NA		NA		pos	X	1041	No	Sheep
+X109	NA	NA		NA		NA		NA		neg	X	1042	No	Sheep
+X110	NA	NA		NA		NA		NA		pos	X	1043	No	Sheep
+X111	NA	NA		NA		NA		NA		neg	X	1044	No	Sheep
+X112	NA	NA		NA		NA		NA		pos	X	1045	No	Sheep
+X113	NA	NA		NA		NA		NA		pos	X	1046	No	Sheep
+X114	NA	NA		NA		NA		NA		neg	X	1047	No	Sheep
+X115	NA	NA		NA		NA		NA		pos	X	1048	No	Sheep
+X116	NA	NA		NA		NA		NA		neg	X	1049	No	Sheep
+X117	NA	NA		NA		NA		NA		neg	X	1050	No	Sheep
+X118	NA	NA		NA		NA		NA		neg	X	1051	No	Sheep
+X119	NA	NA		NA		NA		NA		pos	X	1052	No	Sheep
+X120	NA	NA		NA		NA		NA		neg	X	1053	No	Sheep
+X121	NA	NA		NA		NA		NA		neg	X	1054	No	Sheep
+X122	NA	NA		NA		NA		NA		pos	X	1055	No	Sheep
+X123	NA	NA		NA		NA		NA		pos	X	1056	No	Sheep
+X124	NA	NA		NA		NA		NA		pos	X	1057	No	Sheep
+X125	NA	NA		NA		NA		NA		pos	X	1058	No	Sheep
+X126	NA	NA		NA		NA		NA		pos	X	1059	No	Sheep
+X127	NA	NA		NA		NA		NA		pos	X	1060	No	Sheep
+X128	NA	NA		NA		NA		NA		pos	X	1061	No	Sheep
